@@ -10,7 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "jsdom": "^16.6.0",
+    "moment": "^2.29.1",
+    "pdf-to-printer": "^2.0.6"
   },
   "type": "module"
 }
